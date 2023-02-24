@@ -8,7 +8,7 @@ namespace OpenPose.Example {
     /*
      * User example of using OPWrapper
      */
-    public class OpenPoseUserScript : MonoBehaviour {
+    public class OpenPoseUserScript_Demo : MonoBehaviour {
 
         // HumanController2D prefab
         [SerializeField] GameObject humanPrefab;
